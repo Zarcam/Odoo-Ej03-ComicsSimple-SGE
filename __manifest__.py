@@ -1,6 +1,6 @@
 {
     'name': "Biblioteca Comics Simple", 
-    'summary': "Gestionar comics :) (Version simple)", 
+    'summary': "Gestionar comics", 
     'description': """
         Gestor de bibliotecas (Version Simple)
         ==============
